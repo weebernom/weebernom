@@ -10,7 +10,7 @@ I build things and then try to break them. Right now that means an LLM-driven pe
 
 - 🕷️ **Nightcrawler**: LLM-driven pentesting agent. A Kali MCP server on a rooted Android phone runs the tools; llama-server on my homelab runs the model. Tailscale links the two, so neither device faces the public internet.
 - 🏠 **Homelab**: headless Debian 13 server on a broken-screen laptop. Docker stack with Jellyfin, Pi-hole, Ollama + Open WebUI, Uptime Kuma and a Samba NAS, gated behind Tailscale with UFW rules around Docker.
-- 🧰 **[tools.momibat.me](https://tools.momibat.me)**: 45+ client-side browser utilities in plain HTML/CSS/JS, deployed on Cloudflare Pages with HSTS and security headers.
+- 🧰 **[tools.momibat.me](https://tools.momibat.me)**: 45+ client-side browser utilities, built with a small team of friends in plain HTML/CSS/JS, deployed on Cloudflare Pages with HSTS and security headers.
 
 ## ✅ Shipped
 
